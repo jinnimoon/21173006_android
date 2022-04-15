@@ -20,3 +20,12 @@
 <img width="" height="" src="./pic/5st_2.jpg"></img>
 <img width="" height="" src="./pic/5st_3.jpg"></img>
 <img width="" height="" src="./pic/5st_4.jpg"></img>
+
+---------------------------------------------------------------------------
+
+# 6주차
+<img width="" height="" src="./pic/6st_1.jpg"></img>
+<img width="" height="" src="./pic/6st_2.jpg"></img>
+<img width="" height="" src="./pic/6st_3.jpg"></img>
+<img width="" height="" src="./pic/6st_4.jpg"></img>
+<img width="" height="" src="./pic/6st_5.jpg"></img>
