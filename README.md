@@ -38,5 +38,3 @@
 <img width="" height="" src="./pic/10st_2.jpg"></img>
 <img width="" height="" src="./pic/10st_3.jpg"></img>
 <img width="" height="" src="./pic/10st_4.jpg"></img>
-<img width="" height="" src="./pic/10st_5.jpg"></img>
-<img width="" height="" src="./pic/10st_6.jpg"></img>
